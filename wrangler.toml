@@ -1,3 +1,3 @@
-name = "git-pages"
+name = "git-pages-proxy"
 main = "src/index.js"
 compatibility_date = "2025-01-04"
